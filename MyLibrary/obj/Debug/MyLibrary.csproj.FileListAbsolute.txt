@@ -1,0 +1,6 @@
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloFormsWithLib\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloFormsWithLib\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloFormsWithLib\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloFormsWithLib\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloFormsWithLib\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#2\WindowsHelloFormsWithLib\MyLibrary\obj\Debug\MyLibrary.pdb
